@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(3, 03, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gabriel Gomez)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The goal of this assignment was to create code that would allow for the calculation of your tax bracket)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://gabsteve23.github.io/lesson5_javascript2/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (One lesson I learned from this assignment was how to properly use else if and if statements)
+2. (Another lesson I learned was how to correctly reference a function such as the clear button with the use of get element by id)
+3. (A final lesson I learned in this assignment was how references tie into both javascript and html)
 
